@@ -459,7 +459,6 @@ main {
     background-color: var(--Geel);
     border: none;
     color: black;
-    font-weight: 750;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -820,7 +819,6 @@ textarea {
     display: flex;
     flex-grow: 1;
     width: 100%;
-    display: flex;
     position: relative;
     /* height: 100%; */
     align-items: center;
